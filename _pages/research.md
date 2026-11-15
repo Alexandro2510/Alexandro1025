@@ -18,8 +18,8 @@ My Master's thesis investigates structural properties of rings in positive chara
 * **Local Cohomology:** I study the support of local cohomology modules $H_I^i(M)$ and their structure as $R\{F\}$-modules in prime characteristic.
 
 **Materials:**  
-* **Master's Thesis (Draft / In Progress):** [Download PDF](/files/Tesis_Maestria_CIMAT.pdf)  
-* **Research Poster — *Rings with Finite F-Representation Type*:** [Download Poster (PDF)](/files/Poster_FFRT.pdf)
+* **Master's Thesis (Draft / In Progress):** [Download PDF](/files/Tesis_de_maestria_cimat.pdf)  
+* **Research Poster — *Rings with Finite F-Representation Type*:** [Download Poster (PDF)](/files/poster_maestria_cimat.pdf)
 
 ---
 
@@ -28,11 +28,11 @@ My Master's thesis investigates structural properties of rings in positive chara
 * **Connection between Local Cohomology and Sheaf Cohomology**  
   *Bachelor's Thesis in Mathematics, Universidad Autónoma de Nuevo León (UANL), 2026.*  
   An exposition bridging algebraic local cohomology modules with geometric sheaf cohomology on projective and punctured spectra, including explicit Čech cohomology computations.  
-  **Thesis:** [Download PDF](/files/Tesis_Licenciatura_UANL.pdf)
+  **Thesis:** [Download PDF](/files/tesis_de_licenciatura_uanl.pdf)
 
 * **Poster Presentation — *Connection between Local Cohomology and Sheaf Cohomology***  
   *Seminario Chichimeca de Álgebra, May 2025.*  
-  **Poster:** [Download Poster (PDF)](/files/Poster_Cohomologia_Local.pdf)
+  **Poster:** [Download Poster (PDF)](/files/poster_licenciatura.pdf)
 
 ---
 
