@@ -6,6 +6,7 @@ author_profile: true
 
 I have approximately **ten years of experience** teaching mathematics across undergraduate and high school levels. My teaching approach emphasizes conceptual clarity, structured problem-solving, and building intuition through concrete algebraic and geometric examples.
 
+![Teaching Mathematics](/images/teaching.jpg)
 ---
 
 ## University Teaching Experience
