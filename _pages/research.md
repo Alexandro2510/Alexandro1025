@@ -20,20 +20,20 @@ This thesis focuses on the support and associated primes of local cohomology mod
 Additionally, this work explores finite $F$-representation type (FFRT) as a key tool to ensure the finiteness of associated primes of local cohomology modules, establishing FFRT for quotients of polynomial rings by monomial ideals as well as for classes of affine semigroup rings.
 
 **Materials:**  
-* **Master's Thesis (In Progress):** [Download PDF](/files/Tesis_de_maestria_cimat.pdf)  
-* **Poster — *Rings with Finite F-Representation Type*:** [Download Poster (PDF)](/files/poster_maestria_cimat.pdf)
+* Master's Thesis (In Progress): [Download PDF](/files/Tesis_de_maestria_cimat.pdf)  
+* Poster — *Rings with Finite F-Representation Type*: [Download Poster (PDF)](/files/poster_maestria_cimat.pdf)
 
 ---
 
-## Undergraduate Thesis & Poster (UANL)
+## Undergraduate Thesis (UANL)
 
-* **Connection between Local Cohomology and Sheaf Cohomology**  
+* Connection between Local Cohomology and Sheaf Cohomology  
   *Bachelor's Thesis in Mathematics, Universidad Autónoma de Nuevo León (UANL).*  
   An exposition bridging algebraic local cohomology modules with geometric sheaf cohomology on projective and punctured spectra, including explicit Čech cohomology computations.  
-  **Thesis:** [Download PDF](/files/tesis_de_licenciatura_uanl.pdf)
+  Thesis: [Download PDF](/files/tesis_de_licenciatura_uanl.pdf)
 
-* **Poster Presentation — *Connection between Local Cohomology and Sheaf Cohomology***  
+* Poster — Connection between Local Cohomology and Sheaf Cohomology 
   *Seminario Chichimeca de Álgebra, May 2025.*  
-  **Poster:** [Download Poster (PDF)](/files/poster_licenciatura.pdf)
+  Poster: [Download Poster (PDF)](/files/poster_licenciatura.pdf)
 
 ---
