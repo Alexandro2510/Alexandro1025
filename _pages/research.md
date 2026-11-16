@@ -10,8 +10,9 @@ My research focuses on Commutative Algebra in prime characteristic, specifically
 
 ## Master's Thesis
 **Institution:** Centro de Investigación en Matemáticas (CIMAT), Guanajuato, Mexico  
-**Advisors:** Luis Núñez Betancourt
-**Co-advisor:** Federico Castillo
+**Advisors:** Luis Núñez Betancourt  
+**Co-advisor:** Federico Castillo  
+
 My Master's thesis investigates structural properties of rings in positive characteristic $p > 0$ via the Frobenius endomorphism, alongside the support of local cohomology modules:
 
 This thesis focuses on the support and associated primes of local cohomology modules, motivated by the question of when the support of these modules is a Zariski-closed set. Building on techniques developed by Melvin Hochster and Luis Núñez-Betancourt, it examines the case of hypersurface rings in positive characteristic, utilizing the structure and finiteness of $R\{F\}$-modules to establish this geometric property.
